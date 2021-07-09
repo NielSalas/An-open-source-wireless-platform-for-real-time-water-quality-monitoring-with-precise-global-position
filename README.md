@@ -1,4 +1,7 @@
-                    GNU GENERAL PUBLIC LICENSE
+#An open source wireless hardware and software platform for accurately locating real-time water quality monitoring
+##Integrated system for measuring water quality with precise ocation supported by dual GNSS/INS
+###Author Niel Franck Salas Cueva
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
